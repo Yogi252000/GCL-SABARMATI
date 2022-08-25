@@ -1,16 +1,16 @@
-Voyage No.,Instructed Speed,Avg Speed (Voyage),Avg Speed (in Good weather),Avg FO cons / day,CP Fuel cons limit
-01 B,10,10.8,10.8,32.3,32
-02 B,10,11,11,33.7,32
-03 B,10,10.9,10.9,35.7,32
-04 B,10,10.5,10.84,34.3,32
-05 B,11,10.21,10.21,34,32
-06 B,11,10.51,10.51,34.5,32
-07 B,11,11.44,11.02,33.3,32
-08B,11,12.25,12.25,33.6,36
-09B,11,10.69,10.69,31.6,32
-10 B,11,11.05,11.05,29.5,32
-11B,11,11.57,11.57,30.26,32
-12B,11,9.86,11.14,27.72,32
-13B,11,11.09,11.29,31,32
-14B,11,10.48,9.78,28.77,32
-15B,11,7.57,7.57,29.24,32
+Voyage No.,Departure Port,Arrival Port,Instructed Speed,Avg Speed (Voyage),Avg Speed (in Good weather),Avg FO cons / day,CP Fuel cons limit
+01 B,Colombo,Vizag,10,10.8,10.8,32.3,32
+02 B,Hazira,Vizag,10,11,11,33.7,32
+03 B,Hazira,Vizag,10,10.9,10.9,35.7,32
+04 B,Hazira,Vizag,10,10.5,10.84,34.3,32
+05 B,Hazira,Vizag,11,10.21,10.21,34,32
+06 B,Hazira,Vizag,11,10.51,10.51,34.5,32
+07 B,Hazira,Vizag,11,11.44,11.02,33.3,32
+08B,Hazira,Vizag,11,12.25,12.25,33.6,36
+09B,Hazira,Vizag,11,10.69,10.69,31.6,32
+10 B,Hazira,Vizag,11,11.05,11.05,29.5,32
+11B,COLOMBO - SRI LANKA,VISAKHAPATINAM - INDIA,11,11.57,11.57,30.26,32
+12B,Hazira,Vizag,11,9.86,11.14,27.72,32
+13B,Hazira,Vizag,11,11.09,11.29,31,32
+14B,Hazira,Vizag,11,10.48,9.78,28.77,32
+15B,HAZIRA - INDIA,KANDLA - INDIA,11,7.57,7.57,29.24,32
