@@ -1,16 +1,16 @@
-Voyage No.,Instructed Speed,Avg Speed (Voyage),Avg Speed (in Good weather),Avg FO cons / day,CP Fuel cons limit
-01 L,11,9.8,9.8,33.6,36
-02 L,11,9.3,9.9,34.9,36
-03 L,11,9.5,9.9,37.2,36
-04 L,11,9.8,9.9,36.5,36
-05 L,11,10.1,10.3,35.1,36
-06 L,11,10.5,10.5,36.9,36
-07 L,11,10.7,10.7,35.6,36
-08L,11,11.4,11.4,35.6,36
-09L,11,10.3,10.1,30.4,32
-10L,11,10.3,10.3,30.4,32
-11L,11,9.65,9.65,30.69,36
-12L,11,9.72,9.92,32.03,36
-13L,11,9.59,9.82,31.68,36
-14L,11,8.38,8.38,31.48,32
-15L,11,9.58,9.38,29.66,36
+Voyage No.,Departure Port,Arrival Port,Instructed Speed,Avg Speed (Voyage),Avg Speed (in Good weather),Avg FO cons / day,CP Fuel cons limit
+01 L,Vizag,Hazira,11,9.8,9.8,33.6,36
+02 L,Vizag,Hazira,11,9.3,9.9,34.9,36
+03 L,Vizag,Hazira,11,9.5,9.9,37.2,36
+04 L,Vizag,Hazira,11,9.8,9.9,36.5,36
+05 L,Vizag,Hazira,11,10.1,10.3,35.1,36
+06 L,Vizag,Hazira,11,10.5,10.5,36.9,36
+07 L,Vizag,Hazira,11,10.7,10.7,35.6,36
+08L,Vizag,Hazira,11,11.4,11.4,35.6,36
+09L,Vizag,Hazira,11,10.3,10.1,30.4,32
+10L,Vizag,Hazira,11,10.3,10.3,30.4,32
+11L,Vizag,Hazira,11,9.65,9.65,30.69,36
+12L,Vizag,Hazira,11,9.72,9.92,32.03,36
+13L,Vizag,Hazira,11,9.59,9.82,31.68,36
+14L,Vizag,Hazira,11,8.38,8.38,31.48,32
+15L,SINGAPORE ,"PYEONG TAEK - KOREA,SOUTH",11,9.58,9.38,29.66,36
